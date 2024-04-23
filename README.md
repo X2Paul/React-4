@@ -1,1 +1,1 @@
-# React + TypeScript + Vite
+Використання хука useEffect і Axios
